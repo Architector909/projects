@@ -1,0 +1,8 @@
+hey
+
+commit master
+
+motherfucker
+
+mergetool trying to fix conflict
+
